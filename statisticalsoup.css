@@ -24,14 +24,39 @@
 	}
 	h3 {
 		font-family: 'Raleway', sans-serif;
-		font-size:.9em;
+		font-size:1.5em;
 		font-weight:200;
 		color:#000;
 		margin:5%;
 		text-align: justify;
 	}
+	h4 {
+		font-family: 'Raleway', sans-serif;
+		font-size:1.3em;
+		font-weight:200;
+		color:#000;
+		text-align: justify;
+		margin-top: 0px;
+		margin-right: 10%;
+		margin-left: 10%;
+	}
+
+	ul {
+		margin: 1%;
+	}
+
+	blockquote {
+		font-family: 'Raleway';
+		font-style: italic;
+		font-weight: 500;
+		text-align: justify;
+		color: #7f8787;
+	}
+
 	img {
 		background-color: #ffffff;
+		margin-top: 5px;
+		margin-bottom: 5px;
 	}
 	.hero {
 		display:flex;
@@ -342,6 +367,13 @@
 	}
 
 	h3{
+		font-size: 0.9em;
+		margin-top: 0px;
+		margin-right: 5%;
+		margin-left: 5%;
+	}
+
+	h4{
 		font-size: 0.75em;
 		margin-top: 0px;
 		margin-right: 5%;
